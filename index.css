@@ -1,0 +1,33 @@
+
+html{
+
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 300%;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 210%;
+}
+
+#szszc{
+    height: 225px;
+    width: 500px;
+}
+
+gd{
+    
+}
+
+#felepites{
+    height: 400px;
+    width: 600px;
+}
