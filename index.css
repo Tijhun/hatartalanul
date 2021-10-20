@@ -1,10 +1,6 @@
-
-html{
-
-}
-
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 
 h1{
@@ -23,11 +19,35 @@ h2{
     width: 500px;
 }
 
-gd{
-    
-}
-
 #felepites{
     height: 400px;
     width: 600px;
+}
+
+.menud{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.lmenu{
+    float: left;
+}
+
+.menu{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu:hover:not(.active) {
+    background-color: #111;
+}
+
+.active{
+    background-color: #04AA6D;
 }
