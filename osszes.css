@@ -1,0 +1,139 @@
+/*index.html formázása*/
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 300%;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 210%;
+}
+
+#szszc{
+    height: 225px;
+    width: 500px;
+}
+
+#felepites{
+    height: 400px;
+    width: 600px;
+}
+
+.menud{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.lmenu{
+    float: left;
+}
+
+.menu{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu:hover:not(.active) {
+    background-color: #111;
+}
+
+.active{
+    background-color: #04AA6D;
+}
+
+#aquapolis{
+    width: 50%;
+    height: 50%;
+}
+
+#szurikata{
+    width: 50%;
+    height: 50%;
+}
+
+#gabor_denes{
+    width: 50%;
+    height: 50%;
+}
+
+#reok{
+    width: 50%;
+    height: 50%;
+}
+
+#klauzal{
+    width: 50%;
+    height: 50%;
+}
+
+/*erdely.html formázása*/
+
+#erdelyi_suli{
+    width: 50%;
+    height: 50%;
+}
+
+/*programok.html formázása*/
+
+#deva{
+    width: 50%;
+    height: 50%;
+}
+
+#vajdahunyad{
+    width: 50%;
+    height: 50%;
+}
+
+#szallas{
+    width: 50%;
+    height: 50%;
+}
+
+#brasso{
+    width: 50%;
+    height: 50%;
+}
+
+#peles{
+    width: 70%;
+    height: 70%;
+}
+
+#anna_to{
+    width: 50%;
+    height: 50%;
+}
+
+#barlang{
+    width: 50%;
+    height: 50%;
+}
+
+#kezdi{
+    width: 50%;
+    height: 50%;
+}
+
+#emlekhaz{
+    width: 50%;
+    height: 50%;
+}
+
+#nagyszeben{
+    width: 50%;
+    height: 50%;
+}
