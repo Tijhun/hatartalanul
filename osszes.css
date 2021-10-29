@@ -16,11 +16,13 @@ h2{
     font-size: 210%;
 }
 
-#szszc{
-    height: 225px;
-    width: 500px;
+img{
+    width: 50%;
+    height: 50%;
 }
-
+#gd{
+    width: 150px;
+}
 #felepites{
     height: 400px;
     width: 600px;
@@ -49,91 +51,15 @@ h2{
 .menu:hover:not(.active) {
     background-color: #111;
 }
-
+.menu:hover{
+    color: red;
+}
 .active{
-    background-color: #04AA6D;
+    background-color: #12aa04;
 }
-
-#aquapolis{
-    width: 50%;
-    height: 50%;
+.agazatokDiv{
+    text-align: end;
 }
-
-#szurikata{
-    width: 50%;
-    height: 50%;
-}
-
-#gabor_denes{
-    width: 50%;
-    height: 50%;
-}
-
-#reok{
-    width: 50%;
-    height: 50%;
-}
-
-#klauzal{
-    width: 50%;
-    height: 50%;
-}
-
-/*erdely.html formázása*/
-
-#erdelyi_suli{
-    width: 50%;
-    height: 50%;
-}
-
-/*programok.html formázása*/
-
-#deva{
-    width: 50%;
-    height: 50%;
-}
-
-#vajdahunyad{
-    width: 50%;
-    height: 50%;
-}
-
-#szallas{
-    width: 50%;
-    height: 50%;
-}
-
-#brasso{
-    width: 50%;
-    height: 50%;
-}
-
-#peles{
-    width: 70%;
-    height: 70%;
-}
-
-#anna_to{
-    width: 50%;
-    height: 50%;
-}
-
-#barlang{
-    width: 50%;
-    height: 50%;
-}
-
-#kezdi{
-    width: 50%;
-    height: 50%;
-}
-
-#emlekhaz{
-    width: 50%;
-    height: 50%;
-}
-
-#nagyszeben{
-    width: 50%;
-    height: 50%;
+.container{
+    background-color: beige;
 }
